@@ -1,0 +1,64 @@
+
+author:
+  name: "Marek Strong"
+  avatar: "/assets/images/profile.png"
+  bio: "PhD Candidate, University of Cambridge"
+  location: "Cambridge, UK"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/marekstrong"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/marekstrong/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=3TCIX-UAAAAJ"
+
+
+title: Marek Strong
+email: ms2518 (at) cam (dot) ac (dot) uk
+baseurl: ""
+url: ""
+
+
+# Build settings
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-feed
+
+
+include:
+  - _docs
+  - files
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+
