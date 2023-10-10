@@ -1,2 +1,31 @@
 ---
 ---
+
+body {
+	font-size: 20px;
+	font-family: "Roboto",sans-serif;
+	font-weight: 300;
+}
+
+.author__avatar img {
+	max-width: 150px;
+}
+
+.archive {
+	font-size: 18px;
+	padding-right: 200px;
+}
+
+.sidebar {
+	font-size: 22px;
+}
+
+.btn--small {
+	padding: 0.2em 0.6em;
+}
+
+.btn--disabled {
+	pointer-events: none;
+    cursor: default;
+    opacity: 1.0;
+}
