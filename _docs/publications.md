@@ -3,13 +3,14 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+classes: wide
 ---
 
 Below is a list of my published papers:
 
 
 1. **QA-NatVer: Question Answering for Natural Logic-based Fact Verification**\
-    Rami Aly, <u>Marek Strong</u>, and Andreas Vlachos.\
+    Rami Aly, <u>Marek Strong</u>, and Andreas Vlachos\
     EMNLP, 2023\
     [EMNLP](#link){: .btn .btn--small .btn--info .btn--disabled}
 
@@ -21,7 +22,7 @@ Below is a list of my published papers:
     [PDF](https://arxiv.org/pdf/2110.12539.pdf){: .btn .btn--small .btn--warning}
 
 3. **ParaCrawl: Web-scale acquisition of parallel corpora**\
-    Marta Banón, Pinzhen Chen, ..., <u>Strong, Marek</u>, ..., Dion Wiggins, and Jaume Zaragoza
+    Marta Banón, Pinzhen Chen, ..., <u>Strong, Marek</u>, ..., Dion Wiggins, and Jaume Zaragoza\
     Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, 2020\
     [ACL](#link){: .btn .btn--small .btn--info .btn--disabled}
     [PDF](https://aclanthology.org/2020.acl-main.417.pdf){: .btn .btn--small .btn--warning}
