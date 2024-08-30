@@ -13,6 +13,8 @@ Below is a list of my published papers:
     Rami Aly, <u>Marek Strong</u>, and Andreas Vlachos\
     EMNLP, 2023\
     [EMNLP](#link){: .btn .btn--small .btn--info .btn--disabled}
+    [ArXiv](https://arxiv.org/abs/2310.14198){: .btn .btn--small .btn--danger}
+    [PDF](https://arxiv.org/pdf/2310.14198){: .btn .btn--small .btn--warning}
 
 2. **Discrete acoustic space for an efficient sampling in neural text-to-speech**\
     <u>Marek Strong</u>, Jonas Rohnke, Antonio Bonafonte, Mateusz Łajszczak, Trevor Wood\
