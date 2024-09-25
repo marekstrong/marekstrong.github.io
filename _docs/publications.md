@@ -11,7 +11,7 @@ Below is a list of my published papers:
 
 1. **Zero-Shot Fact Verification via Natural Logic and Large Language Models**\
     <u>Marek Strong</u>, Rami Aly, and Andreas Vlachos\
-    EMNLP, 2023\
+    EMNLP, 2024\
     [EMNLP](#link){: .btn .btn--small .btn--info .btn--disabled}
 
 2. **QA-NatVer: Question Answering for Natural Logic-based Fact Verification**\
