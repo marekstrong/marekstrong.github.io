@@ -13,6 +13,8 @@ Below is a list of my published papers:
     <u>Marek Strong</u>, Rami Aly, and Andreas Vlachos\
     EMNLP, 2024\
     [EMNLP](#link){: .btn .btn--small .btn--info .btn--disabled}
+    [ArXiv](https://arxiv.org/abs/2410.03341){: .btn .btn--small .btn--danger}
+    [PDF](https://arxiv.org/pdf/2410.03341){: .btn .btn--small .btn--warning}
 
 2. **QA-NatVer: Question Answering for Natural Logic-based Fact Verification**\
     Rami Aly, <u>Marek Strong</u>, and Andreas Vlachos\
