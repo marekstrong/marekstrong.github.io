@@ -12,21 +12,21 @@ Below is a list of my published papers:
 1. **TSVer: A Benchmark for Fact Verification Against Time-Series Evidence**\
     <u>Marek Strong</u> and Andreas Vlachos\
     EMNLP, 2025\
-    [EMNLP](#link){: .btn .btn--small .btn--info .btn--disabled}
+    [EMNLP](https://aclanthology.org/2025.emnlp-main.1519){: .btn .btn--small .btn--info}
     [ArXiv](#link){: .btn .btn--small .btn--danger}
     [PDF](#link){: .btn .btn--small .btn--warning}
 
 2. **Zero-Shot Fact Verification via Natural Logic and Large Language Models**\
     <u>Marek Strong</u>, Rami Aly, and Andreas Vlachos\
     EMNLP, 2024\
-    [EMNLP](#link){: .btn .btn--small .btn--info .btn--disabled}
+    [EMNLP](https://aclanthology.org/2024.findings-emnlp.991){: .btn .btn--small .btn--info}
     [ArXiv](https://arxiv.org/abs/2410.03341){: .btn .btn--small .btn--danger}
     [PDF](https://arxiv.org/pdf/2410.03341){: .btn .btn--small .btn--warning}
 
 3. **QA-NatVer: Question Answering for Natural Logic-based Fact Verification**\
     Rami Aly, <u>Marek Strong</u>, and Andreas Vlachos\
     EMNLP, 2023\
-    [EMNLP](#link){: .btn .btn--small .btn--info .btn--disabled}
+    [EMNLP](https://aclanthology.org/2023.emnlp-main.521){: .btn .btn--small .btn--info}
     [ArXiv](https://arxiv.org/abs/2310.14198){: .btn .btn--small .btn--danger}
     [PDF](https://arxiv.org/pdf/2310.14198){: .btn .btn--small .btn--warning}
 
