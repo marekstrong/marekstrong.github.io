@@ -13,8 +13,8 @@ Below is a list of my published papers:
     <u>Marek Strong</u> and Andreas Vlachos\
     EMNLP, 2025\
     [EMNLP](https://aclanthology.org/2025.emnlp-main.1519){: .btn .btn--small .btn--info}
-    [ArXiv](#link){: .btn .btn--small .btn--danger}
-    [PDF](#link){: .btn .btn--small .btn--warning}
+    [ArXiv](https://arxiv.org/abs/2511.01101){: .btn .btn--small .btn--danger}
+    [PDF](https://arxiv.org/pdf/2511.01101){: .btn .btn--small .btn--warning}
 
 2. **Zero-Shot Fact Verification via Natural Logic and Large Language Models**\
     <u>Marek Strong</u>, Rami Aly, and Andreas Vlachos\
